@@ -88,7 +88,7 @@ public class MÉTODOS {                              // Classe pública externa 
 	    //--------------------------------------------------------------------------------------------------------------------------
 	    
 	    public static class Horas {   // Classe publica estatica 'Horas' pois não é possivel ter 2 classes públicas no mesmo código
-	    // Parâmetros da classe Horas
+	    // Atributos da classe Horas
 	    private String result; // Armazena o valor da conversão de horas e minutos restantes
 	    private int min;   // Armazena o valor de minutos
 	    private int horas; // Armazena o valor de horas após a conversão
@@ -125,7 +125,7 @@ public class MÉTODOS {                              // Classe pública externa 
 	    
 	    //--------------------------------------------------------------------------------------------------------------------------
 	    
-	    public static class Fatorial { // Classe publica estatica 'PESSOAS' pois não é possivel ter 2 classe publica no mesmo código
+	    public static class Fatorial { // Classe publica estatica 'Fatorial' pois não é possivel ter 2 classe publica no mesmo código
 	    // Atributos da Classe 'PESSOAS'  
 	    	private String result;
 	    	private int numero;
