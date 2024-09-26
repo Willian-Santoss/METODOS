@@ -57,7 +57,7 @@ public class MÉTODOS {                              // Classe pública externa 
 	        System.out.println("Digite outro número: ");
 	        int num3 = ler.nextInt();
 	        
-	        if (num1 > num2 && num1 > num3) {                             // Variável que verifica se 'num1' é maior que 'num2 e num3'
+	        if (num1 > num2 && num1 > num3) {                             // Verifica se 'num1' é maior que 'num2 e num3'
 	                System.out.printf("\nO maior número é: %d \n",num1);  // Se for verdade, apresenta o que está descrito no 'sout'
 	            } else if (num1 < num2 && num2 > num3 ){                  // Verufuca se 'num2' é maior que 'num1 e num3'
 	                System.out.printf("\nO maior número é: %d \n",num2);  // Se for verdade, apresenta o que está descrito no 'sout'
