@@ -10,6 +10,8 @@ Este repositório contém um projeto em Java que implementa classes para represe
 - Crie uma classe para representar Elevado. A classe deve ter um método que pede ao usuário dois valores(a,b) e logo após coloca 'a' como base e 'b' como expoente.
 - Crie uma classe para representar Horas. A classe deve ter os seguintes atributos result, min, horas, minutosRestantes. Então crie um método para inicializar min e logo após crie um metodo para converter minutos em horas e minutos restantes.
 - Crie uma classe para representar Fatorial. A classe deve ter os seguintes atributos result, numero. Então crie um método para inicializar numero, crie outro método alterar o valor de numero e por ultimo crie outro método para calcular o fatorial de numero.
+- Crie métodos para apresentar os resultados no console.
+
 # 📋 Pré-requisitos
 
 - Java Development Kit (JDK)
