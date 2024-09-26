@@ -1,4 +1,4 @@
-# MÉTODOS
+MÉTODOS
 
 Este repositório contém um projeto em Java que implementa classes para representar MÉTODOS, media, NumMaior, Elevado, Horas, Fatorial. A classe MÉTODOS inclui funcionalidades para verificar se um numero é positivo ou negativo,  a classe media calcula a media de trê números fornecidos, a classe NumMaior verifica entre três números fornecidos qual é o maior, a classe Elevado calcula 'a' elevado a 'b', a classe Horas converte uma quantidade de minutos em horas e minutos restantes, a classe Fatorial calcula o fatorial do valor desejado. 
 
